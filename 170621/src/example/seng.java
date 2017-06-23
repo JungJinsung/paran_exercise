@@ -1,5 +1,5 @@
 package example;
-
+//12
 public class seng {
 	String A;
 	String B;
